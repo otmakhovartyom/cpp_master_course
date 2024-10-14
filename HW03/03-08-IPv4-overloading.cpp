@@ -3,7 +3,7 @@
 
 class ipv4
 {
-public:
+private:
     std::array<unsigned char, 4> octets; // array of octets
 
 public:
